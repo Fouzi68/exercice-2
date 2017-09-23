@@ -1,2 +1,4 @@
 l'utilisation de github permet de :
-versionner son code
+versionner son code 
+partager son code avec d'autre developpeur
+
